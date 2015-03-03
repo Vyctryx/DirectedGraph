@@ -1,0 +1,12 @@
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\empty.txt
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\graph.txt
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\invalid.txt
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\loopback.txt
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\outliers.txt
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\trains.txt
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\obj\Debug\DirectedGraph.csprojResolveAssemblyReference.cache
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\DirectedGraph.exe.config
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\DirectedGraph.exe
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\bin\Debug\DirectedGraph.pdb
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\obj\Debug\DirectedGraph.exe
+C:\Users\Harradine\Documents\Visual Studio 2013\Projects\Trains - Copy\Trains\Trains\obj\Debug\DirectedGraph.pdb
